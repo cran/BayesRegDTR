@@ -1,7 +1,7 @@
-906510829981f0492ad3907051a8185a *DESCRIPTION
+a5edaa334c647af53c11e765c61b0045 *DESCRIPTION
 74aaaed9a31a30d653071d48ca7a7a80 *NAMESPACE
-88022d2c146fe2717eda325b3128912a *NEWS.md
-69892f5d8de833bee086996d57d537da *R/BayesLinRegDTR.model.fit.R
+92f978da89ca45371ec184628ff0efbd *NEWS.md
+c7533c7b9c47b69d59f5c41a122390c3 *R/BayesLinRegDTR.model.fit.R
 b86a9628085c3229f2edc5bc6d6e38a4 *R/BayesRegDTR-package.R
 22339769789ecaadb3fcbd58e4516767 *R/GiveChoiceValue.R
 42af30b0f3f287e6688324608a839295 *R/MC_draw_MVT.R
@@ -27,5 +27,5 @@ ef418e969d2aaa9f9a00ddd530321d11 *man/generate_dataset_mvt.Rd
 76dd61965ddf478f776f89fabcdb5945 *src/RcppExports.cpp
 ab00e5a7cc911951305c0de94e979a7e *src/mc_draw_helpers.cpp
 0f50ca6fee808f623882c0baf855d834 *tests/testthat.R
-319cc23f790068e59dd3b12867ae5cb5 *tests/testthat/test-BayesLinRegDTR_model_fit.R
+468b297efb07c55cc24331e632819ceb *tests/testthat/test-BayesLinRegDTR_model_fit.R
 c3bd374fd3d59265d581fc3c7045418d *tests/testthat/test-datagen.R
